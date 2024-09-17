@@ -42,6 +42,9 @@
 .grid {
   display: grid;
 }
+.ul {
+  list-style: none;
+}
 
 @media (width >= 80em) {
   .container {
